@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "EPLD Pashto-English NLP Toolkit: Morphology-Aware Tokenization, Corpus Loader, and Cross-Lingual Sentiment Baselines"
+message: "If you use this software or dataset in your research, please cite both the toolkit and the published English-Pashto Language Dataset (EPLD)."
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia"
+    email: "rabiakhan13309@gmail.com"
+    affiliation: "Department of Information Technology, University of Haripur & Pak-Austria Fachhochschule (PAF-IAST)"
+  - family-names: "Khan"
+    given-names: "Huzaifa Saleem"
+  - family-names: "Ijaz"
+    given-names: "Shireen"
+identifiers:
+  - type: doi
+    value: 10.17632/vmgv4s6vrn.1
+license: MIT
+version: 1.0.0
+date-released: "2026-10-24"
