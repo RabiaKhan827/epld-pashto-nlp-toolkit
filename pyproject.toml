@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "epld-pashto-nlp"
+version = "1.0.0"
+description = "Morphology-aware tokenization, orthographic normalization, and cross-lingual sentiment analysis toolkit for the English-Pashto Language Dataset (EPLD, DOI: 10.17632/vmgv4s6vrn.1)."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "Rabia Khan", email = "rabiakhan13309@gmail.com"}]
+
+[tool.setuptools.packages.find]
+where = ["src"]
