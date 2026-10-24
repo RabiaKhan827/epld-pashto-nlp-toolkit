@@ -1,6 +1,4 @@
-# epld-pashto-nlp-toolkit
-Official Python NLP toolkit, morphology-aware # EPLD Pashto–English NLP Toolkit (`epld-pashto-nlp-toolkit`)
-
+# EPLD Pashto–English NLP Toolkit (`epld-pashto-nlp-toolkit`)
 Official companion Python library, morphological analyzer, and cross-lingual sentiment benchmark for the peer-reviewed open-access **English-Pashto Language Dataset (EPLD)**:
 
 > **Khan, Rabia**, Khan, Huzaifa Saleem, & Ijaz, Shireen (2025). *English-Pashto Language Dataset (EPLD)*. **Mendeley Data**, V1. DOI: `10.17632/vmgv4s6vrn.1`
